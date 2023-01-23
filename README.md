@@ -13,7 +13,7 @@ Este projeto foi criado para exercitar os conhecimentos em desenvolvimento para 
 
 <ul>
   <li>criar e utilizar API(POST/GET)</li>
-  <li>comunicação com servidor remotor</li>
+  <li>comunicação com servidor remoto</li>
   <li>criação de UI com jetpack compose</li>
   <li>utilização de corotinas</li>
   <li>aprimoramento de criação de uma arquitetura de código limpa</li>
