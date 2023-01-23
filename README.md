@@ -1,4 +1,4 @@
-# App Promo Mercados 
+# Promo App! 
 
 Ferramentas Utilizadas:
  <ul>
