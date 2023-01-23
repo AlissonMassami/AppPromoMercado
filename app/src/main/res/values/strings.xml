@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleAuthApp</string>
+    <string name="sign_in_title">Sign in to Continue</string>
+    <string name="sign_in_subtitle">if you want to access this app,\nfirst you need to sign in.</string>
+    <string name="welcome_title">Bem Vindo ao Promo App</string>
+    <string name="welcome_subtitle">Aqui você encontra os dias de promoção \ndos seus mercados favoritos!.</string>
+</resources>
